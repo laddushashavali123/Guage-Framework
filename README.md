@@ -1,2 +1,11 @@
-# Guage-Framework
-Guage Framework with Specs for testing Guage
+Gauge Training Materials
+========================
+
+This repository contains a sample project for Gauge training.
+
+Gauge sample project
+--------------------
+
+* Java Maven Gauge project for demo purpose.
+* The project can be built by the following commands:
+* mvn clean test
