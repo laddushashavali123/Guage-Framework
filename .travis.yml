@@ -1,0 +1,9 @@
+language: java
+sudo: enabled
+
+#language: java
+
+#language: node_js
+#node_js:
+ #- "iojs"
+  #- "7"
